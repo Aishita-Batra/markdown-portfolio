@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- [ ] My recent favourite book is Think like a Monk written by Jay Shetty. 🔹
+- [ ] I love travelling to new places and meeting new people. 💙
+- [ ] I love exploring new techonolgical domains. 🎉
+- [ ] I am a foodie. 😄
